@@ -1,6 +1,14 @@
 This is F1 text file
 
 jira #102
+<<<<<<< Updated upstream
 
 jira#221
 "hello"
+=======
+ jira#103
+class
+{
+int j=25;
+}
+>>>>>>> Stashed changes
